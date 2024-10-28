@@ -3,4 +3,3 @@ Each folder contains a number of files, and there are n total. All of the files 
 folders, the files must be arranged according to their type. The complete procedure should take place while employing multiprocessing and moving the files from an input 
 location to an output location.
 
-![image](https://github.com/user-attachments/assets/05e0557b-1f67-4657-90cf-33c2e41ece6c)
